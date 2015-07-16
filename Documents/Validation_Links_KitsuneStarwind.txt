@@ -1,0 +1,11 @@
+https://github.com/JeremySkinner/FluentValidation
+
+http://java-source.net/open-source/validation
+
+http://www.w3.org/WAI/ER/tools/
+
+
+
+* validation info
+
+http://istqbexamcertification.com/what-is-validation-in-software-testing-or-what-is-software-validation/
